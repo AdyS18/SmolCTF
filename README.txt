@@ -4,7 +4,7 @@ You intercepted a file from a suspicious communication. The file contains your a
 
 Luckily, you also found a note nearby:
 
-"My password is the name of the cipher used by Julius Caesar"
+"My password is the name of the cipher used by <u>Julius Caesar<u> "
 
 Can you retrieve the flag?
 
